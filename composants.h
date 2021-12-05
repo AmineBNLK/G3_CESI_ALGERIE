@@ -269,3 +269,9 @@ public :
 
 
 }
+/*void setAttribute(string aAttribute) {
+		Attribute = aAttribute;
+	}                                               \\\\\ Verifier car non existant au niveau des attributs
+	string getAttribute() {
+		return Attribute;
+	}*/
